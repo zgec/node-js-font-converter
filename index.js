@@ -12,5 +12,5 @@ module.exports = function convert(src, dst, options, callback) {
 
 	exec(command, function (error, stdout, stderr) {
 		callback(error);
-    });
+	});
 }
