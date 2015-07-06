@@ -1,6 +1,6 @@
 # Font Converter
 
-**FontForge wrapper that allows conversion from and to different font formats (TTF, WOFF, OTF)**
+**FontForge wrapper that allows conversion between different font formats (TTF, WOFF, OTF)**
 
 ## Setup
 
