@@ -1,21 +1,20 @@
 {
-	"name": "font-converter",
-	"version": "1.0.0",
-	"description": "FontForge wrapper that allows conversion between different font formats (TTF, WOFF, OTF)",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/johnycodes/node-js-font-converter.git"
-	},
-	"keywords": [
-		"font",
-		"converter",
-		"convert",
-		"transform",
-		"forge"
-	],
-	"author": "JohnyCodes <johny@johnycodes.com> (https://github.com/johnycodes)",
-	"license": "GPL2",
-	"dependencies": {
-	}
+  "name": "font-converter",
+  "version": "1.1.0",
+  "description": "FontForge wrapper that allows conversion between different font formats (TTF, WOFF, OTF)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnycodes/node-js-font-converter.git"
+  },
+  "keywords": [
+    "font",
+    "converter",
+    "convert",
+    "transform",
+    "forge"
+  ],
+  "author": "JohnyCodes <johny@johnycodes.com> (https://github.com/johnycodes)",
+  "license": "GPL2",
+  "dependencies": {}
 }
