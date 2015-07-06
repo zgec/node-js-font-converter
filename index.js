@@ -9,8 +9,5 @@ module.exports = function convert(src, dst, options, callback) {
 	}
 
 	var command = 'fontforge -script "' + forgeScriptPath + '" "'+src+'" "'+dst+'"'
-
-	exec(command, function (error, stdout, stderr) {
-		callback(error);
-	});
-}
+	exec(command, callback);
+};
